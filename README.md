@@ -1,2 +1,2 @@
 # DebtGuard
-AI-driven model to predict sovereign debt defaults in emerging markets.
+Engineered a model to forecast credit deterioration and default probability for debt issuers.
